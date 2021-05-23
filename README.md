@@ -1,6 +1,6 @@
 # Hello!
 ## Social Media:
-https://img.shields.io/badge/TheTank20-%231133-5865F2
+!(Discord)[https://img.shields.io/badge/TheTank20-%231133-5865F2]
 
 My favorite language is C#  due to how much you can do with it (and how you don't need to sign in to Oracle to get a JDK).
 
