@@ -1,6 +1,6 @@
 # Hello!
 ## Social Media:
-![Discord](https://img.shields.io/badge/TheTank20-%231133-5865F2)
+[![Discord](https://img.shields.io/badge/TheTank20-%231133-5865F2)](https://github.com/thepwrtank18/)
 
 [![Reddit](https://img.shields.io/badge/TheTank18-u%2F-FF4500)](https://www.reddit.com/u/TheTank18)
 
