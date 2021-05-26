@@ -1,6 +1,6 @@
 # Hello!
 ## Social Media:
-![Discord](https://img.shields.io/badge/TheTank20-%231133-5865F2?style=flat-square) <sub><sup(ID is 455202304770048001)></sup></sub>
+![Discord](https://img.shields.io/badge/TheTank20-%231133-5865F2?style=flat-square) <sub><sup>(ID is 455202304770048001)></sup></sub>
 
 [![Reddit](https://img.shields.io/badge/TheTank18-Reddit-FF4500?style=flat-square)](https://www.reddit.com/u/TheTank18)
 
